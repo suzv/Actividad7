@@ -1,0 +1,30 @@
+.imghead {
+  z-index: 0;
+  width: 100%;
+}
+.imgtxt {
+  z-index: 1;
+  padding: 10%;
+  padding-bottom: 20%;
+  font-size: 3em;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  color: silver;
+  float: left;
+ opacity: 0.5;
+ font-size: 1.5em;
+ margin-left: 10%;
+ margin-top: -5%
+}
+
+a{
+  color: silver;
+ opacity: 0.5;
+}
